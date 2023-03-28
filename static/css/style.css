@@ -1,18 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 body{
-    background-color: #282828;
+    background-color: #5c5b5b;
     text-align: center;
+    margin:0;
     font-family: 'Open Sans', sans-serif;
 }
 .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('ferrari.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-          position: relative;
+    position: relative;
+    height:100vh;
 }
-
-  
 
 #research {
     font-size: 18px;
@@ -27,7 +27,7 @@ body{
     border-style: solid;
     font-family: cursive;
     text-align: center;
-   font-size: medium;
+    font-size: medium;
     position: absolute;
     width: 700px;
     bottom: 9%;
