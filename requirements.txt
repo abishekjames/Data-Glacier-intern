@@ -12,7 +12,6 @@ MarkupSafe==1.1.1
 numpy
 requests==2.24.0
 scikit-learn==0.23.1
-scipy
 sklearn
 threadpoolctl==2.1.0
 urllib3==1.25.9
