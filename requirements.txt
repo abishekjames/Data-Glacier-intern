@@ -11,7 +11,7 @@ jsonify==0.5
 MarkupSafe==1.1.1
 numpy
 requests==2.24.0
-sklearn
+scikit-learn==1.2.2
 threadpoolctl==2.1.0
 urllib3==1.25.9
 Werkzeug==1.0.1
