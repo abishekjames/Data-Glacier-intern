@@ -53,4 +53,4 @@ This project has four major parts :
 
 If everything goes well, you should be able to see the predcited car selling price on the HTML page! check the output here: http://127.0.0.1:5000/predict
 
-![](https://github.com/abishekjames/Data-Glacier-intern-week4/blob/main/model/Screenshot.png)
+![](https://github.com/abishekjames/Data-Glacier-intern-week4/blob/main/static/css/Screenshot.png)
